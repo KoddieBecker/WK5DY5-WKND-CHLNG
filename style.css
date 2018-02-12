@@ -1,0 +1,18 @@
+h1{color: deeppink;
+    text-align: center;
+    text-effect: engrave;
+    text-transform: uppercase;
+    font-family: "Adobe Fangsong Std";
+}
+
+p { text-align: center;
+    font-family: Avenir;
+    color: green;
+    align-content: space-evenly;
+}
+
+button {align-content: center;
+}
+
+/*table { align-content: space-evenly;*/
+/*}*/
